@@ -57,3 +57,28 @@
 .banner-photo{
     padding-right: 50px;
 }
+
+
+/* offer section  */
+
+.offer-section{
+    background-color:#E554731A;
+    display: flex;
+    margin-top: 50px;
+    align-items: center;
+    height: 400px;
+    justify-content: space-between;
+}
+
+
+.off-text{
+    text-align: center;
+    padding-left: 200px;
+    color: #272727;
+    gap: 10px;
+}
+
+.offer-img{
+    width: 180px;
+    padding: 100px 200px 100px 200px  ;
+}
