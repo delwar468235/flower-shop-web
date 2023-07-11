@@ -26,9 +26,23 @@
 .banner-text{
     padding-left: 120px;
     color: #272727;
+    gap: 10px;
+    
     
 }
 
+
+.btn{
+    margin-top: 15px;
+    border-radius: 8px;
+    background: #E55473;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    border: none;
+    color: white;
+
+}
 .banner-titel{
     font-size: 50px;
     font-weight: boid;
@@ -36,7 +50,10 @@
     
 }
 
-.description{
-    font-size: 18px;
-    font-weight: 400;
+
+.banner-description{
+    text-align:left;
+}
+.banner-photo{
+    padding-right: 50px;
 }
