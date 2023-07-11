@@ -1,0 +1,42 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+/* banner section style */
+
+.banner-img{
+    width: 300px;
+    /* padding-left: 80px; */
+}
+
+.banner-containar{
+    background-color: #E554731A;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    
+    
+
+}
+
+.banner-text{
+    padding-left: 120px;
+    color: #272727;
+    
+}
+
+.banner-titel{
+    font-size: 50px;
+    font-weight: boid;
+    margin-bottom: 15px;
+    
+}
+
+.description{
+    font-size: 18px;
+    font-weight: 400;
+}
