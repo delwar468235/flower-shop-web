@@ -16,6 +16,10 @@ font-family: 'Open Sans', sans-serif;
     
 }
 
+.text-prymay{
+    color:#E55473;
+}
+
 .banner-containar{
     background-color: #E554731A;
     display: flex;
@@ -133,20 +137,36 @@ margin-top: 50px;
 
 /* 4. setion  */
 
-.bg-img{
-    padding: 50px 240px;
-    text-align: center; 
+.bg-container{
+    margin-top: 50px;
+   background-color: #c7a4a4;
+    
+    
     
 }
-
-/* .bg-head{
-    color: #272727;
+.bg-titel{
+    padding: 15px;
     text-align: center;
-    margin-bottom: 15px;
-    font-size: 30px;
-} */
+    width: 8%auto;
+    justify-content: center;
+    justify-content: space-between;
+}
 
-.back-imge{
-
+.input-fild{
+    display: flex;
+    align-items: center;
     
 }
+
+
+.footer-containt{
+    color: aliceblue;
+    background-color: black;
+    justify-content:space-between;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+}
+
+
+
