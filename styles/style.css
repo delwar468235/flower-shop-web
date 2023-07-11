@@ -2,14 +2,18 @@
     padding: 0px;
     margin: 0px;
 }
+/* common shared style  */
 
-
-
-/* banner section style */
+body{
+    font-family: 'Belanosima', sans-serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+/*1. banner section style */
 
 .banner-img{
     width: 300px;
-    /* padding-left: 80px; */
+    
 }
 
 .banner-containar{
@@ -59,7 +63,7 @@
 }
 
 
-/* offer section  */
+/*2. offer section  */
 
 .offer-section{
     background-color:#E554731A;
@@ -81,4 +85,68 @@
 .offer-img{
     width: 180px;
     padding: 100px 200px 100px 200px  ;
+}
+
+.off-description{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+
+/* 3.Instragram section  */
+
+.social-section{
+margin-top: 50px;
+}
+.titel-head{
+    color: #272727;
+    text-align: center;
+    margin-bottom: 15px;
+
+
+
+   
+   
+}
+
+.social-section{
+    padding: 50px 240px;
+    text-align: center; 
+    
+}
+
+.social-img >img{
+    width: 200px;
+    height: 250px;
+    padding: 2px;
+    
+    
+}
+.social-img{
+    padding-left: 240px;
+    padding-right: 240px;
+    align-items: center;
+    display: inline;
+   
+    
+}
+
+/* 4. setion  */
+
+.bg-img{
+    padding: 50px 240px;
+    text-align: center; 
+    
+}
+
+/* .bg-head{
+    color: #272727;
+    text-align: center;
+    margin-bottom: 15px;
+    font-size: 30px;
+} */
+
+.back-imge{
+
+    
 }
